@@ -108,7 +108,7 @@ const Resume = () => {
       >
         <h2>PROJECTS</h2>
         <div className="project-item">
-          <div className="head"><h3>Community Football Hosting and Turf Booking Website</h3><span>June 2024 - August 2024</span></div>
+          <div className="head"><h3>Community Football Hosting and Turf Booking Website</h3><span>June 2024 - August 2024(expected)</span></div>
           <p>MongoDB, ExpressJS, ReactJS, NodeJS </p>
           <p><a href="https://github.com/shriharit04/TurfTime-MERN" target="_blank">GitHub Link</a></p>
           <ul>
