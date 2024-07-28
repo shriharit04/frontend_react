@@ -110,7 +110,7 @@ const Resume = () => {
         <div className="project-item">
           <div className="head"><h3>Community Football Hosting and Turf Booking Website</h3><span>June 2024 - August 2024</span></div>
           <p>MongoDB, ExpressJS, ReactJS, NodeJS </p>
-          <p><a href="https://github.com/shriharit04">GitHub Link</a></p>
+          <p><a href="https://github.com/shriharit04/TurfTime-MERN" target="_blank">GitHub Link</a></p>
           <ul>
             <li>Designed and developed a website where users can book turfs on available slots, and turf owners can list their turfs.</li>
             <li>Users can also create their own team and register for tournaments through the site.</li>
@@ -120,7 +120,7 @@ const Resume = () => {
         <div className="project-item">
           <div className="head"><h3>Research Scribe</h3><span>Jan 2024 - May 2024</span></div>
           <p>Python Automation and API - </p>
-          <p><a href="https://github.com/shriharit04">GitHub Link</a></p>
+          <p><a href="https://github.com/shriharit04/ResearchScribe" target="_blank">GitHub Link</a></p>
           <ul>
             <li>Developed ResearchScribe, an application designed to streamline information gathering and knowledge integration for researchers, students, and professionals.</li>
             <li>Implemented real-time information retrieval, enabling instant access to up-to-date data from diverse sources.</li>

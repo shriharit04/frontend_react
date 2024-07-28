@@ -144,6 +144,10 @@ $card-border: #ddd;
     .competencies {
       display: flex;
       justify-content: space-between;
+      li{
+        list-style-type: none;
+
+      }
 
       @media screen and (max-width:900px) {
         flex-direction: column;
