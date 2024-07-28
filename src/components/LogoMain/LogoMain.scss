@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+$resume-bg: #ffffff;
+$resume-primary: #000000; // Black
+$resume-secondary: #6a0dad; // Purple
+$card-bg: #f8f9fa;
+$card-border: #ddd;
+
+body {
+  background-color: $resume-bg;
+  font-family: 'Roboto', sans-serif;
+}
+
+svg{
+    max-height: 120px;
+    max-width: 120px;
+    fill: $resume-primary;
+    color: $resume-secondary;
+    fill: #6a0dad;
+
+}
