@@ -94,7 +94,7 @@ const Resume = () => {
               <li><span className="icon-circle"><SiReact className="icon-react" /></span> ReactJS</li>
               <li><span className="icon-circle"><FaNode className="icon-node" /></span> NodeJS</li>
               <li><span className="icon-circle"><SiGithub className="icon-github" /></span> GitHub</li>
-              <li><span className="icon-circle"><FaAws className="icon-aws" /></span> Amazon Web Services</li>
+{/*               <li><span className="icon-circle"><FaAws className="icon-aws" /></span> Amazon Web Services</li> */}
             </ul>
           </div>
         </div>
@@ -113,19 +113,18 @@ const Resume = () => {
           <p><a href="https://github.com/shriharit04/TurfTime-MERN" target="_blank">GitHub Link</a></p>
           <ul>
             <li>Designed and developed a website where users can book turfs on available slots, and turf owners can list their turfs.</li>
-            <li>Users can also create their own team and register for tournaments through the site.</li>
-            <li>Implemented user authentication, authorization, fixture making.</li>
+            <li>Currently wokring on adding Community football matches and tournaments in the app.</li>
+            <li>Implemented user authentication, authorization, CRUD operations on mongoDB.</li>
           </ul>
         </div>
         <div className="project-item">
-          <div className="head"><h3>Research Scribe</h3><span>Jan 2024 - May 2024</span></div>
+          <div className="head"><h3>Research Scribe</h3><span>Dec 2023</span></div>
           <p>Python Automation and API - </p>
           <p><a href="https://github.com/shriharit04/ResearchScribe" target="_blank">GitHub Link</a></p>
           <ul>
-            <li>Developed ResearchScribe, an application designed to streamline information gathering and knowledge integration for researchers, students, and professionals.</li>
-            <li>Implemented real-time information retrieval, enabling instant access to up-to-date data from diverse sources.</li>
-            <li>Integrated content synthesis features, auto-generating summaries and citations for research topics.</li>
-            <li>Enabled effortless export of research findings and summaries to Word documents.</li>
+            <li>Developed ResearchScribe, a simple python application designed to streamline information gathering and knowledge integration for researchers, students, and professionals.</li>
+            <li>Implemented real-time information retrieval, enabling instant access to up-to-date data from diverse sources with the help of chatgpt</li>
+            <li>Autoamates chatGPT queries and retrieves data into a word file without the need of chatGPT api using GUI automation</li>
           </ul>
         </div>
       </motion.div>
