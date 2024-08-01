@@ -113,8 +113,8 @@ const Resume = () => {
           <p><a href="https://github.com/shriharit04/TurfTime-MERN" target="_blank">GitHub Link</a></p>
           <ul>
             <li>Designed and developed a website where users can book turfs on available slots, and turf owners can list their turfs.</li>
-            <li>Currently wokring on adding Community football matches and tournaments in the app.</li>
-            <li>Implemented user authentication, authorization, CRUD operations on mongoDB.</li>
+            <li>Currently working on adding Community football matches and tournaments in the app.</li>
+            <li>Implemented user authentication, authorization and CRUD operations using mongoDB.</li>
           </ul>
         </div>
         <div className="project-item">
@@ -123,8 +123,8 @@ const Resume = () => {
           <p><a href="https://github.com/shriharit04/ResearchScribe" target="_blank">GitHub Link</a></p>
           <ul>
             <li>Developed ResearchScribe, a simple python application designed to streamline information gathering and knowledge integration for researchers, students, and professionals.</li>
-            <li>Implemented real-time information retrieval, enabling instant access to up-to-date data from diverse sources with the help of chatgpt</li>
-            <li>Autoamates chatGPT queries and retrieves data into a word file without the need of chatGPT api using GUI automation</li>
+            <li>Implemented real-time information retrieval, enabling instant access to up-to-date data from diverse sources with the help of ChatGPT</li>
+            <li>Automates ChatGPT queries and retrieves data into a word file without the need of ChatGPT API using GUI automation</li>
           </ul>
         </div>
       </motion.div>
